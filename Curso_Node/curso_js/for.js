@@ -45,3 +45,27 @@ for(fruta in listDeCompras){
 for(fruta in listDeCompras){
     console.log(fruta)
 }
+/*
+while (condicion){
+codigo
+}
+*/
+
+let contador= 0
+while(contador< 10){
+    console.log(contador)
+    contador++;
+}
+
+/*
+do{
+codigo
+
+}while(condicion){
+}
+*/
+let cont =0
+do{
+    console.log(cont)
+    cont++
+}while(cont<20)
